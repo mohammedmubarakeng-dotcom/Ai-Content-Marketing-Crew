@@ -269,4 +269,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-*Built with ❤️ using UV + Cursor + Groq + Gemini | Invoice: "UV-powered AI content crew – 10x faster content. Fixed $800"*
+*Built with ❤️ using UV + Cursor + Groq + Gemini | Invoice: "UV-powered AI content crew – 10x faster content."*
